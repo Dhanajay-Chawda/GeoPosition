@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204255218443",
+    "project_id": "background-location-6ba4b",
+    "storage_bucket": "background-location-6ba4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204255218443:android:5b8af23db1cc86c428700e",
+        "android_client_info": {
+          "package_name": "com.vision.andorid.backgroundlocationyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204255218443-p0l68v7kcqhtelkf7t90gekc7pm98vb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCwzGtKEpMFGq6lBiEOWq5W1UIvmijwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204255218443-p0l68v7kcqhtelkf7t90gekc7pm98vb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
